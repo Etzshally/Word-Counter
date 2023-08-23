@@ -18,6 +18,7 @@ function App() {
           <Switch>
             <Route path="/about">
               <About />
+              
             </Route>
             <Route path="/">
               <TextForm heading="Enter the text to analyze" />
